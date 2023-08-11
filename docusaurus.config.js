@@ -11,15 +11,15 @@ const config = {
   favicon: 'img/logo.png',
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://airteamdocs.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/airteamdocs',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'edy', // Usually your GitHub org/user name.
-  projectName: 'airTeamdocs', // Usually your repo name.
+  organizationName: 'renzer-xd', // Usually your GitHub org/user name.
+  projectName: 'airteamdocs', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
