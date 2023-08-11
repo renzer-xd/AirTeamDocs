@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[332],{7701:e=>{e.exports=JSON.parse('{"title":"USAF","slug":"/category/usaf-1","permalink":"/airteamdocs/category/usaf-1","navigation":{"previous":{"title":"Intro","permalink":"/airteamdocs/"},"next":{"title":"translate-your-site","permalink":"/airteamdocs/usaf/translate-your-site"}}}')}}]);

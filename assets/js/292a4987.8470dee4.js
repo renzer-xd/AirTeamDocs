@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[671],{4266:e=>{e.exports=JSON.parse('{"label":"hello","permalink":"/airteamdocs/blog/tags/hello","allTagsPath":"/airteamdocs/blog/tags","count":2}')}}]);
